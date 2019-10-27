@@ -10,13 +10,17 @@ Virtualbox
 
 In order to set up hadoop multi cluster with the given configuration files,  
 hostname for each device should be;  
-hadoop@master:~$  for Master node  
+hadoop@master:~$  for Masternode  
 hadoop@slave1:~$  for Datanode 1  
 hadoop@slave2:~$  for Datanode 2  
   
   
+
+    
+   
+   
   
-### Optional:  
+#### Optional:  
 If you need to change oldname@master to hadoop@master, log out the account.  
 Then,  
 1. log in Ubuntu with different account  
